@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![azarichnyi](IMG_1689%203.JPG)
+![azarichnyi](IMG_1689.JPG)
 
 __I'm the Dude. Or His Dudeness, or Duder, or El Duderino.__
 
