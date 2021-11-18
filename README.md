@@ -7,9 +7,9 @@ __I'm the Dude. Or His Dudeness, or Duder, or El Duderino.__
 Also I'm currently Lead QA Engineer @ [New Wor SE](https://www.new-work.se/en/) in `Solution_Architecture::API_Infrastructure` team.
 I'm trying to make things suck less. 
 
-[My Xing account: Andrii_Zarichnyi](https://xing.com/profile/Andrii_Zarichnyi)
-[My LinkedIn account: azarichnyi](https://www.linkedin.com/in/azarichnyi/)
-[My Twitter: @10m4x](https://twitter.com/10m4x)
+- [My Xing account: Andrii_Zarichnyi](https://xing.com/profile/Andrii_Zarichnyi)
+- [My LinkedIn account: azarichnyi](https://www.linkedin.com/in/azarichnyi/)
+- [My Twitter: @10m4x](https://twitter.com/10m4x)
 
 ### ❓Ask me about
 
